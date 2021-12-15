@@ -58,6 +58,8 @@ const AddEditUSer = () => {
         SetEditMode(false);
         setTimeout(() => navigate("/"), 500);
       }
+    } else {
+      alert("All Field Are Required");
     }
   };
   return (
