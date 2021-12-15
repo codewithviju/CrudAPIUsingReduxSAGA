@@ -1,0 +1,25 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "vijay",
+      "email": "vijay@gmail.com",
+      "phone": "7283819420",
+      "address": "Lakheni"
+    },
+    {
+      "id": 2,
+      "name": "vipul",
+      "email": "vipul@gmail.com",
+      "phone": "8128135259",
+      "address": "Botad"
+    },
+    {
+      "name": "ketan Bhai",
+      "email": "ketan@gmail.com",
+      "phone": "123456789",
+      "address": "Lakheni",
+      "id": 3
+    }
+  ]
+}
